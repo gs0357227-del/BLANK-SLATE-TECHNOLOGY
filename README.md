@@ -1,2 +1,2 @@
 # BLANK-SLATE-TECHNOLOGY
-"AI-powered app idea generation platform to inspire developers"
+"AI-powered app, an idea generation platform to inspire developers"
